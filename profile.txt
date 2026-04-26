@@ -1,1 +1,5 @@
+Name : ASSADARAT URAIRAT A/P KACYAD
+Matric : 251594224
+Course : Data Science ( AI )
 Skills: HTML, CSS, Java
+Role : Manager
